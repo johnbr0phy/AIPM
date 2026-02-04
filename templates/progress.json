@@ -1,0 +1,188 @@
+{
+  "student": "",
+  "started": "",
+  "last_session": null,
+  "last_activity": null,
+  "sessions": {
+    "01": {
+      "name": "LLM Architecture & API Fundamentals",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "experiments": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "02": {
+      "name": "Prompt Engineering Patterns",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "03": {
+      "name": "Embeddings & Semantic Similarity",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "04": {
+      "name": "Vector Databases Deep Dive",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "05": {
+      "name": "Document Processing & Chunking",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "06": {
+      "name": "Building Your First RAG Pipeline",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "07": {
+      "name": "Function Calling & Tool Use",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "08": {
+      "name": "ReAct Agents & Extended Thinking",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "09": {
+      "name": "Memory Systems for Stateful Agents",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "10": {
+      "name": "Advanced RAG Patterns",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "11": {
+      "name": "Corrective & Autonomous RAG",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "12": {
+      "name": "When RAG Fails — Agentic Search Alternatives",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "13": {
+      "name": "Voice & Multimodal Agents",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "14": {
+      "name": "Multi-Agent Architecture Patterns",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "15": {
+      "name": "CrewAI for Role-Based Teams",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "16": {
+      "name": "LangGraph for Complex Workflows",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "17": {
+      "name": "OpenAI Agents SDK Deep Dive",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "18": {
+      "name": "Google ADK for Enterprise Agents",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "19": {
+      "name": "MCP & Standardized Tool Calling",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "20": {
+      "name": "Evaluation Frameworks That Matter",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "21": {
+      "name": "Safety, Guardrails & Responsible AI",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "22": {
+      "name": "RLHF & Alignment Deep Dive",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "23": {
+      "name": "System Design for AI Products",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "24": {
+      "name": "Fine-tuning vs RAG vs Agentic Search Decision Framework",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    },
+    "25": {
+      "name": "Capstone Integration",
+      "status": "not_started",
+      "checkpoints": { "concepts": false, "build": false, "tradeoffs": false },
+      "notes": "",
+      "completed_at": null
+    }
+  },
+  "learning_notes": {
+    "key_insights": [],
+    "questions_to_revisit": [],
+    "favorite_experiments": []
+  }
+}
